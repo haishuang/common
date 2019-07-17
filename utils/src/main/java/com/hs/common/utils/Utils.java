@@ -1,8 +1,6 @@
 package com.hs.common.utils;
 
-/**
- * Created by Huanghs on 2017/10/20.
- */
+
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
