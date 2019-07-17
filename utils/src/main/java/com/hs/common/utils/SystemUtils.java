@@ -21,6 +21,7 @@ public class SystemUtils {
      * 根据包名判断是否安装了指定app
      *
      * @param context     上下文
+     *
      * @param app_package 包名
      * @return true-安装，flase-未安装
      */
