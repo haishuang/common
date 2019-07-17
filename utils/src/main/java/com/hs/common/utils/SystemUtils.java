@@ -9,7 +9,6 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 
-import com.mayisdk.msdk.BaseZHwanCore;
 
 import java.util.List;
 
@@ -58,7 +57,6 @@ public class SystemUtils {
                 }
             }
         }
-        BaseZHwanCore.sendLog("array=" + pInfos.size());
         return str;
     }
 
